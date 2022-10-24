@@ -1,4 +1,4 @@
-/** Hausaufgabe 2 von Philipp Amoei (Matrikelnummer 7322302) */
+/** Hausaufgabe 2 von Philipp */
 
 /**
  * In der Klasse `Operators` finden Sie `@@@` an einigen Stellen. 
